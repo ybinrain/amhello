@@ -1,7 +1,7 @@
 # amhello
 
 ## 安装
-$ aclocal
+$ aclocal  
 $ autoheader
 $ autoconf
 $ automake
