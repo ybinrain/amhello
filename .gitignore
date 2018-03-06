@@ -16,7 +16,11 @@ lib/Makefile
 lib/Makefile.in
 lib/*.o
 lib/*.lo
+lib/.libs
+lib/.deps
 src/*.o
 src/Makefile
 src/Makefile.in
 src/hello
+src/.libs
+src/.deps
