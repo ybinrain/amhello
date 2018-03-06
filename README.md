@@ -2,9 +2,9 @@
 
 ## 安装
 $ aclocal  
-$ autoheader
-$ autoconf
-$ automake
-$ ./configure --prefix=~/test
-$ make
-$ make install
+$ autoheader  
+$ autoconf  
+$ automake  
+$ ./configure --prefix=~/test  
+$ make  
+$ make install  
